@@ -3,6 +3,8 @@
 ## The Definition of CRUD
 Within computer programming, the acronym CRUD stands for create, read, update and delete. These are the four basic functions of persistent storage. Also, each letter in the acronym can refer to all functions executed in relational database applications and mapped to a standard HTTP method, SQL statement or DDS operation.
 
+![CRUD](https://user-images.githubusercontent.com/57044551/138561237-299dcd9d-436f-4a05-ae86-d1dbde4aa66d.png)
+
 ## Benefits of CRUD
 Instead of using ad-hoc SQL statements, many programmers prefer to use CRUD because of its performance. When a stored procedure is first executed, the execution plan is stored in SQL Server’s procedure cache and reused for all applications of the stored procedure.
 
